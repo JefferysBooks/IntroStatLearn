@@ -1,0 +1,16 @@
+Package: IntroStatLearn
+Title: My notes on this book
+Version: 0.0.0.9000
+Authors@R: 
+    person(given = "Suart",
+           family = "Jefferys",
+           role = c("aut", "cre"),
+           email = "srjefferys@gmail.com",
+           comment = c(ORCID = "https://orcid.org/0000-0001-6259-085X"))
+Description: An Introduction to Statistical Learning - with Applications in R.
+  2013. My notes and tools from working through this book. This is a good book.
+  I own a hard copy despite it being free in pdf.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.0.2
